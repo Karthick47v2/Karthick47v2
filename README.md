@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthick T. Sharma</h1>
-<h3 align="center">A passionate Game Developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **WarBots**
-
-- 🌱 I’m currently learning **Unreal engine**
 
 - 📫 How to reach me **karthicksharma11@gmail.com**
 
