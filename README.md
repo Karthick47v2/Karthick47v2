@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthick T. Sharma</h1>
 
-- 🔭 I’m currently working on **WarBots**
-
 - 📫 How to reach me **karthicksharma11@gmail.com**
 
 - ⚡ Fun fact **Love to play games**
